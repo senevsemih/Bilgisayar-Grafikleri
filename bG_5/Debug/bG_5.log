@@ -1,0 +1,5 @@
+﻿  m1.c
+c:\users\monster\desktop\github\bg_5\bg_5\bitmap.c(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\monster\desktop\github\bg_5\bg_5\bitmap.c(386): warning C4018: '<': signed/unsigned mismatch
+  bG_5.vcxproj -> C:\Users\MONSTER\Desktop\github\bG_5\Debug\bG_5.exe
+  bG_5.vcxproj -> C:\Users\MONSTER\Desktop\github\bG_5\Debug\bG_5.pdb (Partial PDB)
